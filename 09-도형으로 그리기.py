@@ -59,4 +59,3 @@ t.listen()
 t.mainloop()
 
 
-# 이것은 연습입니다.
