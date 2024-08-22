@@ -57,3 +57,6 @@ t.onkeypress(size_up,'Up')
 t.onkeypress(size_down,'Down')
 t.listen()
 t.mainloop()
+
+
+# 이것은 연습입니다.
